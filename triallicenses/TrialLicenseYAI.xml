@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="US-ASCII"?>
 <SoftwareAG_License>
 <Component Id="SalesInfo">
-<SerialNumber>0000037899</SerialNumber>
-<LicenseKey>4196C28DBB01B0961CE1010FBB684B14</LicenseKey>
+<SerialNumber>0000708817</SerialNumber>
+<LicenseKey>244BCE6F3C829ADFE54E5635D1DA5D87</LicenseKey>
 <CustomerID>1</CustomerID>
 <CustomerName>Free trial only</CustomerName>
 <ContractDetails>1</ContractDetails>
@@ -11,12 +11,12 @@
 <AutoCallHome>No</AutoCallHome>
 </Component>
 <Component Id="ProductInfo">
-<ExpirationDate>2025/01/31</ExpirationDate>
+<ExpirationDate>2024/06/01</ExpirationDate>
 <OS>Linux</OS>
 <ProductCode>YAIAA</ProductCode>
 <ProductID/>
 <ProductName>API Gateway Advanced Edition</ProductName>
-<ProductVersion>10.7</ProductVersion>
+<ProductVersion>10.15</ProductVersion>
 <Usage/>
 <RenewalDate/>
 <HigherLevPosNr/>
@@ -25,7 +25,7 @@
 </Component>
 <Component Id="Integration Server">
 <ProductCode>YAI</ProductCode>
-<ProductVersion>10.7</ProductVersion>
+<ProductVersion>10.15</ProductVersion>
 <ConcurrentSessions>Unlimited</ConcurrentSessions>
 <Clustering>yes</Clustering>
 <PubSub>no</PubSub>
@@ -46,7 +46,7 @@
 </Component>
 <Component Id="LicenseInfo">
 <PriceUnit>TXN</PriceUnit>
-<PriceQuantity>1</PriceQuantity>
+<PriceQuantity>16</PriceQuantity>
 <TypeOfInstallation/>
 <LicenseType/>
 <ExtendedRights/>
